@@ -1,2 +1,3 @@
 # ucb-project
-it is a private group for ucb project
+## Fake News Detection Algorithms
+It is a private group space for ucb project-based research program
